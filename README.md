@@ -169,27 +169,6 @@ This project demonstrates practical skills in:
 - Identifying top and bottom performers
 - Presenting business insights
 
-## 📂 Suggested GitHub Structure
-
-```text
-AtliQ-Hardwares-Sales-Analytics/
-│
-├── README.md
-│
-├── Excel/
-│   └── AtliQ_Hardwares_Sales_Analytics.xlsx
-│
-└── Reports/
-    ├── Customers net sales performance.pdf
-    ├── Division Level Report.pdf
-    ├── Market Performance vs Targets.pdf
-    ├── Top 5 Countries.pdf
-    ├── Top 10 Products.pdf
-    └── Top and Bottom products.pdf
-```
-
-> Rename the files in this structure if your actual GitHub filenames are different.
-
 ## 🎓 What I Learned
 
 Through this project, I gained practical experience in using Excel for business-oriented sales analysis. I worked on preparing reports, analyzing large sets of sales information, comparing yearly performance, creating Pivot-based summaries, identifying top and bottom performers, comparing actual performance with targets, and presenting data in a structured format.
